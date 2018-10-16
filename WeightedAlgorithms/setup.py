@@ -7,7 +7,7 @@ setup(
   author = 'Kavya Parthiban','Sudarson',
   author_email = 'kavya@live.co.uk','sudarsontm@outlook.com',
   url = 'https://github.com/kavyaparthiban/python',
-  download_url = 'https://github.com/kavyaparthiban/Python/archive/',
+  download_url = 'https://github.com/kavyaparthiban/python/releases/tag/v1.0',
   keywords = ['kmeans', 'weighted'],
   classifiers = [],
 )
